@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="oss_database@127.0.0.1" uuid="c9181dc8-0396-42a9-ab9f-8cf9254228d8">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>oss_database@127.0.0.1</remarks>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://127.0.0.1/oss_database</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
